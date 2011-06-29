@@ -14,7 +14,7 @@
 
 //MARKING_SPHERE allows the user to place little "markers" on the globe when double tapping
 #define MARKING_SPHERE 0
-
+// change
 //also TOUCHING_MARKER_PROJECTIONS is defined (or not) in GlobeMarker.h
 
 static GLfloat flippedNormals[500*3];
